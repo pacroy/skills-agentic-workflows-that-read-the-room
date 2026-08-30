@@ -12,6 +12,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   github:
     mode: local
@@ -33,6 +34,9 @@ Fetch and review these public sources:
 
 - [GitHub Blog latest](https://github.blog/latest/)
 - [GitHub Blog changelog](https://github.blog/changelog/)
+- [Awesome Copilot workflows](https://awesome-copilot.github.com/workflows/)
+
+Use `web-fetch` to retrieve the Awesome Copilot workflows source above.
 
 Update `site/content/github-info.md` only when the sources contain accurate, relevant GitHub changes that warrant a site update. Preserve the existing content style and avoid speculation.
 
