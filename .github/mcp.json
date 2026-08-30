@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "github-agentic-workflows": {
+    "agentic-workflows": {
       "type": "local",
       "command": "gh",
       "args": [
