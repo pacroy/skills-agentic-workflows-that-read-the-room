@@ -17,7 +17,7 @@ tools:
     mode: local
     toolsets: [repos]
   edit: true
-  web-fetch: true
+  web-fetch: {}
 safe-outputs:
   create-pull-request:
     reviewers: [Mona]
